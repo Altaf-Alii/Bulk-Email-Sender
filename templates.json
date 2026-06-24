@@ -1,0 +1,14 @@
+{
+    "welcome": {
+        "subject": "Welcome to {company}!",
+        "body": "Hello {name},\n\nWelcome to {company}! We are thrilled to have you on board.\n\nBest regards,\nThe {company} Team"
+    },
+    "newsletter": {
+        "subject": "Monthly Newsletter from {company}",
+        "body": "Dear {name},\n\nHere is your monthly newsletter from {company}.\n\nStay tuned for more updates!\n\nBest regards,\n{company}"
+    },
+    "internship": {
+        "subject": "Internship Offer - {company}",
+        "body": "Dear {name},\n\nCongratulations! We are pleased to offer you an internship at {company}.\n\nPlease confirm your acceptance.\n\nBest regards,\nHR Team - {company}"
+    }
+}
